@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+
+<keyboard>
+
+	<maintainaspectratio value="true" />
+	<margin top="1.0" bottom="1.0" left="1.0" right="1.0" />
+
+
+
+	<background value="0x0f0f0f" />
+	<keybevel value="0.2" />
+	<keycolorenabled value="0xffffff" />
+	<keycolordisabled value="0xf0f0f0" />
+	<threshold value="50" />
+	<defaulttextheight value="0.2" />
+	<shorttextheight value="0.2" />
+	<esckeysize width="1.0357143" height="0.45" />
+	<functionkeysize width="1.0357143" height="0.45" />
+	<powerkeysize width="1.0357143" height="0.45" />
+	<defaultkeysize width="1" height="1" />
+	<deletekeysize width="1.5" height="1" />
+	<tabkeysize width="1.5" height="1" />
+	<capslockkeysize width="1.8" height="1" />
+	<backslashkeysize width="1" height="1" />
+	<returnkeysize width="1.8" height="1" />
+	<leftshiftkeysize width="2.3" height="1" />
+	<rightshiftkeysize width="2.4" height="1" />
+	<controlkeysize width="1" height="1" />
+	<fnkeysize width="1" height="1" />
+	<leftoptionkeysize width="1" height="1" />
+	<leftcommandkeysize width="1.2" height="1" />
+	<spacebarsize width="5.5" height="1" />
+	<rightcommandkeysize width="1.2" height="1" />
+	<rightoptionkeysize width="1" height="1" />
+	<leftarrowkeysize width="1" height="0.45" />
+	<uparrowkeysize width="1" height="0.45" />
+	<downarrowkeysize width="1" height="0.45" />
+	<rightarrowkeysize width="1" height="0.45" />
+	
+	<keys>
+		<keyrow rowheight="0.45" rowspacing="0.1" keyspacing="0.1">
+			<key name="esc" size="esckeysize" index="0" enabled="false"/>
+			<key name="F1" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F2" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F3" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F4" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F5" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F6" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F7" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F8" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F9" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F10" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F11" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="F12" size="functionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="power" size="powerkeysize" x="0.0" y="0.0" enabled="false"/>
+		</keyrow>
+		<keyrow rowheight="1.0" rowspacing="0.1"  keyspacing="0.1">
+			<key name="`" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="1" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="2" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="3" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="4" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="5" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="6" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="7" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="8" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="9" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="0" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="-" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="+" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="delete" size="deletekeysize" x="0.0" y="0.0" enabled="false"/>
+		</keyrow>
+		<keyrow rowheight="1.0" rowspacing="0.1" keyspacing="0.1">
+			<key name="tab" size="tabkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="Q" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="W" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="E" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="R" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="T" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="Y" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="U" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="I" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="O" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="P" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="[" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="]" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="\" size="backslashkeysize" x="0.0" y="0.0" enabled="false"/>
+		</keyrow>
+		<keyrow rowheight="1.0" rowspacing="0.1" keyspacing="0.1">
+			<key name="caps lock" size="capslockkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="A" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="S" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="D" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="F" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="G" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="H" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="J" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="K" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="L" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name=";" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="'" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="return" size="returnkeysize" x="0.0" y="0.0" enabled="false"/>
+		</keyrow>
+		<keyrow rowheight="1.0" rowspacing="0.1" keyspacing="0.1">
+			<key name="shift" size="leftshiftkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="Z" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="X" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="C" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="V" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="B" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="N" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="M" size="defaultkeysize" x="0.0" y="0.0" enabled="true"/>
+			<key name="," size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="." size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="/" size="defaultkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="shift" size="rightshiftkeysize" x="0.0" y="0.0" enabled="false"/>
+		</keyrow>
+		<keyrow rowheight="1.0" rowspacing="0.1" keyspacing="0.1">
+			<key name="fn" size="fnkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="control" size="controlkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="option" size="leftoptionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="command" size="leftcommandkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name=" " size="spacebarsize" x="0.0" y="0.0" enabled="false"/>
+			<key name="command" size="rightcommandkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="option" size="rightoptionkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="left" size="leftarrowkeysize" x="0.0" y="0.55" enabled="false"/>
+			<key name="up" size="uparrowkeysize" x="0.0" y="0.0" enabled="false"/>
+			<key name="down" size="downarrowkeysize" x="-1.1" y="0.55" enabled="false"/>
+			<key name="right" size="rightarrowkeysize" x="-1.1" y="0.55" enabled="false"/>
+		</keyrow>
+	</keys>
+</keyboard>

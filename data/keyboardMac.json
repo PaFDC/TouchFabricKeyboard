@@ -1,0 +1,751 @@
+
+{
+	"background": "0x0f0f0f",
+	"keycolorenabled": "0xffffff",
+	"keycolordisabled": "0xf0f0f0",
+	"spacing": 0.1,
+	"threshold": 50,
+	"defaulttextheight": 0.2,
+	"shorttextheight": 0.2,
+	"esckeysize": [1.0357143, 0.45],
+	"functionkeysize": [1.0357143, 0.45],
+	"powerkeysize": [1.0357143, 0.45],
+	"defaultkeysize": [1, 1],
+	"deletekeysize": [1.5, 1],
+	"tabkeysize": [1.5, 1],
+	"capslockkeysize": [1.8, 1],
+	"backslashkeysize": [1, 1],
+	"returnkeysize": [1.8, 1],
+	"leftshiftkeysize": [2.3, 1],
+	"rightshiftkeysize": [2.4, 1],
+	"controlkeysize": [1, 1],
+	"fnkeysize": [1, 1],
+	"leftoptionkeysize": [1, 1],
+	"leftcommandkeysize": [1.2, 1],
+	"spacebarsize": [5.5, 1],
+	"rightcommandkeysize": [1.2, 1],
+	"rightoptionkeysize": [1, 1],
+	"leftarrowkeysize": [1, 0.45],
+	"uparrowkeysize": [1, 0.45],
+	"downarrowkeysize": [1, 0.45],
+	"rightarrowkeysize": [1, 0.45],
+	"keys":
+	[
+		[
+			{
+				"name": "esc",
+				"index": 1,
+				"size": "esckeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F1",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F2",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F3",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F4",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F5",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F6",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F7",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F8",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F9",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F10",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F11",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "F12",
+				"index": 1,
+				"size": "functionkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "power",
+				"index": 1,
+				"size": "powerkeysize",
+				"textheight": "shorttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			}
+		],
+		[
+			{
+				"name": "`",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "1",
+				"index": 0,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [140, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "2",
+				"index": 3,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [210, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "3",
+				"index": 7,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [280, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "4",
+				"index": 11,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [350, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "5",
+				"index": 15,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [420, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "6",
+				"index": 19,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [490, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "7",
+				"index": 23,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [560, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "8",
+				"index": 27,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [630, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "9",
+				"index": 31,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [700, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "0",
+				"index": 34,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [700, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "-",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [770, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "+",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [840, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "delete",
+				"index": 1,
+				"size": "deletekeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			}
+		],
+		[
+			{
+				"name": "tab",
+				"index": 1,
+				"size": "tabkeysize",
+				"textheight": "defaulttextheight",
+				"position": [0, 70],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "Q",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [70, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "W",
+				"index": 5,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [140, 70],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "E",
+				"index": 9,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "R",
+				"index": 13,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "T",
+				"index": 17,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "Y",
+				"index": 21,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "U",
+				"index": 25,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "I",
+				"index": 29,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "O",
+				"index": 32,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "P",
+				"index": 35,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "[",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "]",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "\\",
+				"index": 1,
+				"size": "backslashkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			}
+		],
+		[
+			{
+				"name": "caps lock",
+				"index": 1,
+				"size": "capslockkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "A",
+				"index": 2,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "S",
+				"index": 6,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "D",
+				"index": 10,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "F",
+				"index": 14,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "G",
+				"index": 18,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "H",
+				"index": 22,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "J",
+				"index": 26,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "K",
+				"index": 30,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "L",
+				"index": 33,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": ";",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "'",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "return",
+				"index": 1,
+				"size": "returnkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			}
+		],
+		[
+			{
+				"name": "shift",
+				"index": 1,
+				"size": "leftshiftkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "Z",
+				"index": 4,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "X",
+				"index": 8,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "C",
+				"index": 12,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "V",
+				"index": 16,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "B",
+				"index": 20,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "N",
+				"index": 24,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": "M",
+				"index": 28,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": true
+			},
+			{
+				"name": ",",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": ".",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "/",
+				"index": 1,
+				"size": "defaultkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "shift",
+				"index": 1,
+				"size": "rightshiftkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			}
+		],
+		[
+			{
+				"name": "fn",
+				"index": 1,
+				"size": "fnkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false,
+			},
+			{
+				"name": "control",
+				"index": 1,
+				"size": "controlkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "option",
+				"index": 1,
+				"size": "leftoptionkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "command",
+				"index": 1,
+				"size": "leftcommandkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": " ",
+				"index": 1,
+				"size": "spacebarsize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "command",
+				"index": 1,
+				"size": "rightcommandkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "option",
+				"index": 1,
+				"size": "rightoptionkeysize",
+				"textheight": "defaulttextheight",
+				"position": [910, 0],
+				"overrideposition": false,
+				"enabled": false
+			},
+			{
+				"name": "left",
+				"index": 1,
+				"size": "leftarrowkeysize",
+				"textheight": "defaulttextheight",
+				"position": [13.1, 7.355],
+				"overrideposition": true,
+				"enabled": false
+			},
+			{
+				"name": "up",
+				"index": 1,
+				"size": "uparrowkeysize",
+				"textheight": "defaulttextheight",
+				"position": [14.2, 6.825],
+				"overrideposition": true,
+				"enabled": false
+			},
+			{
+				"name": "down",
+				"index": 1,
+				"size": "downarrowkeysize",
+				"textheight": "defaulttextheight",
+				"position": [14.2, 7.355],
+				"overrideposition": true,
+				"enabled": false
+			},
+			{
+				"name": "right",
+				"index": 1,
+				"size": "rightarrowkeysize",
+				"textheight": "defaulttextheight",
+				"position": [15.3, 7.355],
+				"overrideposition": true,
+				"enabled": false
+			}
+		]
+	]
+}
+
+

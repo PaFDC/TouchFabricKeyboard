@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <window height="600" width="800"/>
+  <position max="2.0" min="-1.8"/>
+  <pressure max="20.0" min="9.0"/>
+</config>
